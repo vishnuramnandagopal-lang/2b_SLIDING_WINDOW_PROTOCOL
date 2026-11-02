@@ -9,7 +9,7 @@
 6. Stop the Program
 ## PROGRAM
 
-##Server
+## SERVER
 ~~~
 import socket
 
@@ -39,7 +39,7 @@ while i < len(l):
 c.close()
 server.close()
 ~~~
-##Client
+## CLIENT
 ~~~
 import socket
 
